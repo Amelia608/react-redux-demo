@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-27 21:56:14
- * @LastEditTime: 2020-05-30 12:08:52
+ * @LastEditTime: 2020-05-31 14:33:05
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /redux-demo/README.md
@@ -74,6 +74,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+//master 分支
 步骤:
 安装相关依赖
 yarn add redux
